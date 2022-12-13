@@ -5,14 +5,18 @@ Contributors
 -----------------
 
 - Ohreum Kwon
-https://github.com/Ohreum-Kwon/simu5G/tree/main/simulations/NR/standalone
-https://github.com/Ohreum-Kwon/simu5G/tree/main/simulations/NR/cars
+
+  https://github.com/Ohreum-Kwon/simu5G/tree/main/simulations/NR/standalone  
+
+  https://github.com/Ohreum-Kwon/simu5G/tree/main/simulations/NR/cars  
 
 - Karan Sharma
-https://github.com/Ohreum-Kwon/simu5G/tree/main/simulations/NR/standalone_multicell
+
+  https://github.com/Ohreum-Kwon/simu5G/tree/main/simulations/NR/standalone_multicell
 
 - Joanne Doria
-https://github.com/Ohreum-Kwon/simu5G/tree/main/simulations/NR/test_multiCarrier
+
+  https://github.com/Ohreum-Kwon/simu5G/tree/main/simulations/NR/test_multiCarrier
 
 Dependencies
 ------------
